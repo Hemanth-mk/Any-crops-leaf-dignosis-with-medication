@@ -13,7 +13,7 @@ SQLite / MySQL
 Text-to-Speech (TTS)
 Machine Learning
 
-Project Complexity: ⭐⭐⭐⭐⭐ (Advanced)
+
 
 Key Highlights:
 
